@@ -42,3 +42,14 @@ Cats vs Dogs Dataset
 * Binary Image Classification
 * Machine Learning Model Training
 * Performance Evaluation
+
+## Results
+
+### Accuracy
+![Accuracy](screenshots/accuracy.png)
+
+### Classification Report
+![Classification Report](screenshots/classification_report.png)
+
+### Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
